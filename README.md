@@ -1,6 +1,6 @@
-# Playwright Test Automation – Demo Web Shop
+# Playwright Test Automation Practice
 
-UI test automation practice project built with **Playwright** and **TypeScript**. It contains 50 automated test scenarios for the [Tricentis Demo Web Shop](https://demowebshop.tricentis.com), a publicly available sample e-commerce website.
+Test automation practice project built with **Playwright** and **TypeScript**. It contains 18 automated tests that I wrote while learning Playwright.
 
 ## Tech Stack
 - Playwright
@@ -8,19 +8,12 @@ UI test automation practice project built with **Playwright** and **TypeScript**
 - Node.js
 - VS Code
 
-## Test Coverage
-Scenarios cover the main user flows of the site, such as:
-- [Register / Login]
-- [Product search and browsing]
-- [Add to cart / Checkout]
-- [Add or remove the areas you actually tested]
-
-## Project Structure
-```
-tests/              Test scenarios
-e2e/                Additional specs
-playwright.config.ts   Playwright configuration
-```
+## What I Practised
+- Playwright locators and XPath
+- Text input actions
+- Radio button and checkbox actions
+- Single select and sorted dropdowns
+- Static tables
 
 ## How to Run
 1. Clone the repository
@@ -43,5 +36,5 @@ playwright.config.ts   Playwright configuration
 ```
 
 ## Author
-Mohamed Azarudeen A – QA Engineer
+Mohamed Azarudeen A, QA Engineer
 GitHub: [asar123](https://github.com/asar123)
